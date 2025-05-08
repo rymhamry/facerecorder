@@ -1,7 +1,2 @@
-streamlit 
- cv2
- numpy 
- tempfile
- os
- datetime 
- opencv-python
+streamlit
+opencv-python
